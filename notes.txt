@@ -1,0 +1,5 @@
+LEVENSHTEIN DISTANCE : the LV distance between two words is the minimun number of single character edits(insertions,deletions or substitutions) required to change 
+one word into the other.
+
+2. memoization = refers to remembering results of method calls based on the method inouts and then 
+returning the remembered result rather than computing the result again
